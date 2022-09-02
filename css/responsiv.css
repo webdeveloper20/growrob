@@ -1,0 +1,149 @@
+@media only screen and (max-width: 991px) {
+    .res-margin-top {
+        margin-top: 10px;
+    }
+   
+    .img-home {
+        margin-top: 40px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .part-1 h3 {
+        font-size: 30px;
+    }
+
+    .part-1 p {
+        font-size: 14px;
+    }
+
+    .about-text {
+        margin-top: 50px;
+        font-size: 15px;
+    }
+    #navbar{
+        height: auto;
+    }
+}
+
+
+@media only screen and (max-width: 768px) {
+
+    .img-home {
+        margin-top: 30px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    #home .container{
+        padding-top: 0px;
+    }
+    #about h1{
+        padding-top: 120px;
+        font-size: 26px;
+    }
+    #service h1{
+        padding-top: 120px;
+        font-size: 26px;
+    }
+    #team h1{
+        padding-top: 120px;
+        font-size: 26px;
+    }
+    #partners h1{
+        font-size: 26px;
+        padding-top: 120px;
+    }
+    /* Contact */
+    #contact h1{
+            font-size: 26px;
+            padding-top: 70px;
+    }
+    
+}
+
+@media only screen and (max-width: 500px) {
+    .about-text {
+        margin-top: 30px;
+        font-size: 14px;
+    }
+   
+    #about h1{
+        padding-top: 70px;
+        font-size: 26px;
+    }
+    #service h1{
+        padding-top: 70px;
+    }
+    #team h1{
+        padding-top: 70px;
+    }
+    #partners h1{
+        padding-top: 70px;
+    }
+ 
+}
+
+@media only screen and (max-width: 520px) {
+
+
+    .social-container {
+        margin:0 auto;
+      padding: 40px 0;
+        width:150px;
+      height:100%;
+    }
+
+    /* Button Styles */
+.social-container a {
+    display: block;
+    width:150px;
+  
+    }
+}
+@media only screen and (max-width: 500px) {
+    .footer-line p{
+        font-size: 11px;
+    }
+
+    .about-text {
+        font-size: 12px;
+    }
+}
+@media only screen and (max-width: 424px) {
+.navbar-brand img{
+    height: 60px;
+}
+
+    .social-container {
+        margin:0 auto;
+      padding: 40px 0;
+        width:150px;
+      height:100%;
+    }
+
+    /* Button Styles */
+.social-container a {
+    display: block;
+    width:130px;
+  
+    }
+}
+@media only screen and (max-width: 380px) {
+    .footer-line p{
+        font-size: 10px;
+    }
+
+    
+}
+@media only screen and (max-width: 575px) {
+    .footer-line p{
+        font-size: 10px;
+    }
+
+    .margin_top-576{
+        margin-top: 10px;
+    }
+}
